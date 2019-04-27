@@ -1,4 +1,6 @@
 # You Ass Hacked
+[![](https://pbs.twimg.com/media/D2bc8ktXgAAdR-A.jpg:large)]
+
 Небольшая рофл программка для розыгрыша друзей написанная на Pascal.
 
 Делалась от нехрен делать.
